@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+   <TextView 
+       android:id="@+id/Title"
+       android:layout_width="fill_parent"
+       android:layout_height="wrap_content"
+       android:text="	关于 Whr_Launcher"
+       android:textSize="30sp"
+       
+       />
+   
+   <TextView 
+       android:id="@+id/Info1"
+       android:layout_width="fill_parent"
+       android:layout_height="wrap_content"
+       android:text="	1. 主屏长按可以更换壁纸"
+       android:textSize="20sp"
+       />
+   
+   <TextView 
+       android:id="@+id/Info2"
+       android:layout_width="fill_parent"
+       android:layout_height="wrap_content"
+       android:text="	2. 点击主屏下方按钮分别进入 拨号、联系人、信息、应用管理"
+       android:textSize="20sp"
+       />
+   
+   <TextView 
+       android:id="@+id/Info3"
+       android:layout_width="fill_parent"
+       android:layout_height="wrap_content"
+       android:text="	3. 进入应用管理，首先看到的是第三方安装应用列表，点击 ‘所有’选项可以看到所有应用"
+       android:textSize="20sp"
+       />
+   
+   <TextView 
+       android:id="@+id/Info4"
+       android:layout_width="fill_parent"
+       android:layout_height="wrap_content"
+       android:text="	4. 应用后面带有蓝色小圆，表示应用在后台运行进程"
+       android:textSize="20sp"
+       />
+   
+   <TextView 
+       android:id="@+id/Info5"
+       android:layout_width="fill_parent"
+       android:layout_height="wrap_content"
+       android:text="	5. 长按应用，可以卸载应用或关闭后台"
+       android:textSize="20sp"
+       />   
+       
+    <TextView 
+       android:id="@+id/Info6"
+       android:layout_width="fill_parent"
+       android:layout_height="wrap_content"
+       android:text="	6. 所有应用列表按照 拼音或英文首字母排序"
+       android:textSize="20sp"
+       />
+    
+   <TextView 
+       android:id="@+id/Info7"
+       android:layout_width="fill_parent"
+       android:layout_height="wrap_content"
+       android:text="	7. 第三方应用列表按照应用的打开次数 排序，按菜单键可以清空记录重新统计"
+       android:textSize="20sp"
+       />
+   
+   <TextView 
+       android:id="@+id/Info8"
+       android:layout_width="fill_parent"
+       android:layout_height="wrap_content"
+       android:text="	8. 版本 ： v3.0 "
+       android:textSize="20sp"
+       />
+   
+   <TextView 
+       android:id="@+id/Info9"
+       android:layout_width="fill_parent"
+       android:layout_height="wrap_content"
+       android:text="	9. 日期 ： 2014年12月31日"
+       android:textSize="20sp"
+       />
+</LinearLayout>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">test</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	<string name="icon1_name">联系人</string>
+	<string name="icon2_name">短信</string>
+	<string name="icon3_name">浏览器</string>
+	<string name="icon4_name">所有应用</string>
+	<string name="set_offenuse">删除常用应用记录</string>
+	<string name="about">关于whr_launcher</string>
+	<string name="all_apps">所有</string>
+	<string name="often_use">安装</string>
+</resources>
